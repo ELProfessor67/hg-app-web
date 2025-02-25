@@ -1,0 +1,6 @@
+export const REACT_PUBLIC_SOCKET_URL="https://backend.hgdjlive.com"
+export const REACT_PUBLIC_RADIO_URL="https://hgdjlive.com"
+export const REACT_PUBLIC_HLS_SERVER_HOST = "https://radio-hls.hgdjlive.com/live"
+export const NEXT_PUBLIC_ICE_CAST_SERVER="https://icecast.hgdjlive.com"
+// export const REACT_PUBLIC_RADIO_URL="http://localhost:3000"
+// export const REACT_PUBLIC_SOCKET_URL="http://localhost:4000"
